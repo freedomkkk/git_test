@@ -1,4 +1,4 @@
 Git is a version control system.
 Git is free software.
 
-ÄãºÃ°¡
+ä½ å¥½å•Š
